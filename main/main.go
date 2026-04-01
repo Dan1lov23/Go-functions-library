@@ -17,5 +17,6 @@ func main() {
 	fmt.Println(str.DeleteElement("kotiks", 3))
 	fmt.Println(str.ReverseString("kotiks"))
 	fmt.Println(str.RepeatElementCounter("kotik", "k"))
+	fmt.Println(str.GetSubstring("kotik", 0, 2))
 
 }
