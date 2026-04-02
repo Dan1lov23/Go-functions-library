@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"func/str"
-)
-
 func main() {
 
 	//fmt.Println(arr.NumsArrSlice([]int{1, 2, 3}, 0, 1))
@@ -17,6 +12,7 @@ func main() {
 	//fmt.Println(str.ReverseString("kotiks"))
 	//fmt.Println(str.RepeatElementCounter("kotik", "k"))
 	//fmt.Println(str.GetSubstring("kotik", 0, 2))
-	fmt.Println(str.SubstringInclude("kotik", "kot"))
+	//fmt.Println(str.SubstringInclude("kotik", "kot"))
+	//fmt.Println(str.SubstringIncludeCounter("kokololo", "ko"))
 
 }
